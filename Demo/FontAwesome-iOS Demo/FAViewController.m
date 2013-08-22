@@ -9,7 +9,7 @@
 #import "FAViewController.h"
 #import "NSString+FontAwesome.h"
 #import "FAImageView.h"
-
+#import "UIImage+FontAwesome.h"
 @interface FAViewController ()
 @property (nonatomic, strong) NSMutableArray *stars;
 @end
@@ -45,6 +45,13 @@
     FAImageView *imageView = [[FAImageView alloc] initWithFrame:CGRectMake(0.f, 0.f, 100.f, 100.f)];
     imageView.image = nil;    
 
+    
+    UIImage *image=[UIImage imageWithIcon:@"icon-twitter" backgroundColor:[UIColor blueColor] iconColor:[UIColor whiteColor] iconScale:0.6 andSize:CGSizeMake(50 , 50)];
+    UIImageView *awImageView=[[UIImageView alloc] initWithImage:image];
+    awImageView.frame=CGRectOffset(awImageView.frame, 30, 100);
+    [self.view addSubview:awImageView];
+    
+    
     
     [self.view addSubview:imageView];
 }
