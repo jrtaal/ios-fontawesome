@@ -37,7 +37,6 @@
     UIBezierPath* rectanglePath = [UIBezierPath bezierPathWithRect: CGRectMake(0, 0, size.width, size.height)];
     [bgColor setFill];
     [rectanglePath fill];
-    [rectanglePath stroke];
     
     
     //// Text Drawing
