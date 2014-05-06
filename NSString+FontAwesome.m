@@ -40,7 +40,6 @@
     return [self fontAwesomeIconStringForEnum:[self fontAwesomeEnumForIconIdentifier:identifier]];
 }
 
-
 #pragma mark - Data Initialization
 + (NSArray *)fontAwesomeUnicodeStrings {
     
