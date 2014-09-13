@@ -2297,6 +2297,30 @@ typedef NS_ENUM(NSInteger, FAIcon) {
      @discussion id: renren, unicode: f18b, created: 3.2.
      */
     FAIconRenren
+
+    /**
+     @abstract  AngelList
+     @discussion id: angellist, unicode: f209, created: 4.2.
+     */
+    FAIconAngelList
+
+    /**
+     @abstract  Bus
+     @discussion id: bus, unicode: f207, created: 4.2.
+     */
+    FAIconBus
+
+    /**
+     @abstract  CCDiscover
+     @discussion id: ccdiscover, unicode: f1f2, created: 4.2.
+     */
+    FACCDiscover
+
+    /**
+     @abstract  GoogleWallet
+     @discussion id: googlewallet, unicode: f1ee, created: 4.2.
+     */
+    FAGoogleWallet
 };
 
 
