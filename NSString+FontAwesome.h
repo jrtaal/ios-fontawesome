@@ -2296,31 +2296,115 @@ typedef NS_ENUM(NSInteger, FAIcon) {
      @abstract  Renren
      @discussion id: renren, unicode: f18b, created: 3.2.
      */
-    FAIconRenren
+    FAIconRenren,
 
     /**
      @abstract  AngelList
      @discussion id: angellist, unicode: f209, created: 4.2.
      */
-    FAIconAngelList
+    FAIconAngelList,
 
     /**
      @abstract  Bus
      @discussion id: bus, unicode: f207, created: 4.2.
      */
-    FAIconBus
+    FAIconBus,
 
     /**
      @abstract  CCDiscover
      @discussion id: ccdiscover, unicode: f1f2, created: 4.2.
      */
-    FACCDiscover
+    FACCDiscover,
 
     /**
      @abstract  GoogleWallet
      @discussion id: googlewallet, unicode: f1ee, created: 4.2.
      */
-    FAGoogleWallet
+    FAGoogleWallet,
+
+    /**
+     @abstract  LastFMSquare
+     @discussion id: lastfmsquare, unicode: f203, created: 4.2.
+     */
+    FALastFMSquare,
+
+    /**
+     @abstract  PaintBrush
+     @discussion id: paintbrush, unicode: f1fc, created: 4.2.
+     */
+    FAPaintBrush,
+
+    /**
+     @abstract  Ils
+     @discussion id: ils, unicode: f20b, created: 4.2.
+     */
+    FAIls,
+
+    /**
+     @abstract  ToggleOff
+     @discussion id: toggleoff, unicode: f204, created: 4.2.
+     */
+    FAToggleOff,
+
+    /**
+     @abstract  Twitch
+     @discussion id: twitch, unicode: f1e8, created: 4.2.
+     */
+    FATwitch,
+
+    /**
+     @abstract  AreaChart
+     @discussion id: areachart, unicode: f1fe, created: 4.2.
+     */
+    FAAreaChart,
+
+    /**
+     @abstract  Bicycle
+     @discussion id: bicycle, unicode: f206, created: 4.2.
+     */
+    FABicycle,
+
+    /**
+     @abstract  Calculator
+     @discussion id: calculator, unicode: f1ec, created: 4.2.
+     */
+    FACalculator,
+
+    /**
+     @abstract  CCMastercard
+     @discussion id: ccmastercard, unicode: f1f1, created: 4.2.
+     */
+    FACCMastercard,
+
+    /**
+     @abstract  Copyright
+     @discussion id: copyright, unicode: f1f9, created: 4.2.
+     */
+    FACopyright,
+
+    /**
+     @abstract  LineChart
+     @discussion id: linechart, unicode: f201, created: 4.2.
+     */
+    FALineChart,
+
+    /**
+     @abstract  Paypal
+     @discussion id: paypal, unicode: f1ed, created: 4.2.
+     */
+    FAPaypal,
+
+    /**
+     @abstract  ToggleOn
+     @discussion id: toggleon, unicode: f205, created: 4.2.
+     */
+    FAToggleOn,
+
+    /**
+     @abstract  Wifi
+     @discussion id: wifi, unicode: f1eb, created: 4.2.
+     */
+    FAWifi,
 };
 
 
