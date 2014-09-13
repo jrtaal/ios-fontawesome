@@ -2491,12 +2491,6 @@ typedef NS_ENUM(NSInteger, FAIcon) {
     FACCAmex,
 
     /**
-     @abstract  CCAmex
-     @discussion id: ccamex, unicode: f1f3, created: 4.2.
-     */
-    FACCAmex,
-
-    /**
      @abstract  CCStripe
      @discussion id: ccstripe, unicode: f1f5, created: 4.2.
      */
