@@ -2405,6 +2405,132 @@ typedef NS_ENUM(NSInteger, FAIcon) {
      @discussion id: wifi, unicode: f1eb, created: 4.2.
      */
     FAWifi,
+
+    /**
+     @abstract  At
+     @discussion id: at, unicode: f1fa, created: 4.2.
+     */
+    FAAt,
+
+    /**
+     @abstract  Binoculars
+     @discussion id: binoculars, unicode: f1e5, created: 4.2.
+     */
+    FABinoculars,
+
+    /**
+     @abstract  CC
+     @discussion id: cc, unicode: f20a, created: 4.2.
+     */
+    FACc,
+
+    /**
+     @abstract  CCPaypal
+     @discussion id: ccpaypal, unicode: f1f4, created: 4.2.
+     */
+    FACcpaypal,
+
+    /**
+     @abstract  EyeDropper
+     @discussion id: eyedropper, unicode: f1fb, created: 4.2.
+     */
+    FAEyeDropper,
+
+    /**
+     @abstract  IoxHost
+     @discussion id: ioxhost, unicode: f208, created: 4.2.
+     */
+    FAIoxHost,
+
+    /**
+     @abstract  MeanPath
+     @discussion id: meanpath, unicode: f20c, created: 4.2.
+     */
+    FAMeanPath,
+
+    /**
+     @abstract  PieChart
+     @discussion id: piechart, unicode: f200, created: 4.2.
+     */
+    FAPieChart,
+
+    /**
+     @abstract  Slideshare
+     @discussion id: slideshare, unicode: f1e7, created: 4.2.
+     */
+    FASlideShare,
+
+    /**
+     @abstract  Trash
+     @discussion id: trash, unicode: f1f8, created: 4.2.
+     */
+    FATrash,
+
+    /**
+     @abstract  Yelp
+     @discussion id: yelp, unicode: f1e9, created: 4.2.
+     */
+    FAYelp,
+
+    /**
+     @abstract  BellSlash
+     @discussion id: bellslash, unicode: f1f6, created: 4.2.
+     */
+    FABellSlash,
+
+    /**
+     @abstract  BirthdayCake
+     @discussion id: birthdaycake, unicode: f1fd, created: 4.2.
+     */
+    FABirthdayCake,
+
+    /**
+     @abstract  CCAmex
+     @discussion id: ccamex, unicode: f1f3, created: 4.2.
+     */
+    FACCAmex,
+
+    /**
+     @abstract  CCAmex
+     @discussion id: ccamex, unicode: f1f3, created: 4.2.
+     */
+    FACCAmex,
+
+    /**
+     @abstract  CCStripe
+     @discussion id: ccstripe, unicode: f1f5, created: 4.2.
+     */
+    FACCStripe,
+
+    /**
+     @abstract  FutbolO
+     @discussion id: futbolo, unicode: f1e3, created: 4.2.
+     */
+    FAFutbolO,
+
+    /**
+     @abstract  LastFM
+     @discussion id: lastfm, unicode: f202, created: 4.2.
+     */
+    FALastFM,
+
+    /**
+     @abstract  NewspaperO
+     @discussion id: newspapero, unicode: f1ea, created: 4.2.
+     */
+    FANewspaperO,
+
+    /**
+     @abstract  Plug
+     @discussion id: plug, unicode: f1e6, created: 4.2.
+     */
+    FAPlug,
+
+    /**
+     @abstract  TTY
+     @discussion id: tty, unicode: f1e4, created: 4.2.
+     */
+    FATty,
 };
 
 
