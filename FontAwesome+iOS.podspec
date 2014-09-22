@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FontAwesome+iOS"
-  s.version      = "0.1.3"
+  s.version      = "0.1.4"
   s.summary      = "Category that makes FontAwesome even easier for iOS."
   s.homepage     = "https://github.com/pepibumur/ios-fontawesome"
   s.license      = {
@@ -11,7 +11,7 @@ This project uses the FontAwesome fix made by Pit Garbe that you can find at htt
   }
   s.authors = { 'Alex Usbergo' => 'alexakadrone@gmail.com',
                  'Pedro Piñera'     => 'pepibumur@gmail.com' }
-  s.source       = { :git => "https://github.com/pepibumur/ios-fontawesome.git", :tag => '0.1.3' }
+  s.source       = { :git => "https://github.com/pepibumur/ios-fontawesome.git", :tag => '0.1.4' }
   s.platform     = :ios, '5.0'
   s.source_files = '*.{h,m}'
   s.exclude_files = 'Demo'
